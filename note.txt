@@ -18,3 +18,5 @@ Now our work will continure locaclly
 How to save after adding some text in sublime 
 On mac Command+S
 Or Click on File --> Save
+
+We do not have to push one commit at a time
